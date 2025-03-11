@@ -73,7 +73,9 @@ ISC
 
 ## Autor
 
-@dudaferres
+- Gabriela Queiroga Cocuzza da Silva RM: 560035
+- Julia Sayuri Yokoo RM: 560541
+- Maria Eduarda Ferrés RM: 560418
 
 ---
 

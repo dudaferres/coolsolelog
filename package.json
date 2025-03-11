@@ -1,0 +1,25 @@
+{
+  "name": "coolsolelog",
+  "version": "1.0.0",
+  "description": "Um módulo Node.js divertido para exibir mensagens de log no console com estilo, cores e rostos de gatos ASCII.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dudaferres/coolsolelog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dudaferres/coolsolelog/issues"
+  },
+  "homepage": "https://github.com/dudaferres/coolsolelog#readme",
+  "dependencies": {
+    "boxen": "^8.0.1",
+    "cat-ascii-faces": "^2.0.0",
+    "chalk": "^5.4.1"
+  },
+  "type": "module"
+}
