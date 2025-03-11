@@ -2,8 +2,6 @@
 
 Um módulo Node.js divertido para exibir mensagens de log no console com estilo, cores e rostos de gatos ASCII.
 
-![Exemplo de uso](https://via.placeholder.com/600x200?text=Exemplo+de+coolsolelog)
-
 ## Instalação
 
 ```bash
